@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Elchin%20Guliyev&desc=Cyber%20Security%20and%20GNU/Linux%20Enthusiast&descAlign=50&fontAlignY=40"/>
+
 # 👋 About Me
 
 With over 6 years of hands-on experience, I have been involved in building network-based security systems from scratch, configuring Juniper/Cisco switches, setting up VLANs for over 260 cameras, and configuring IP schemes. I am currently developing my cybersecurity skills (Wazuh/Splunk SIEM, OPNsense/Fortinet firewall, Active Directory, Linux/Windows administration). I have skills in technical documentation, root cause analysis, and risk identification. I am suitable for shift work and linking physical security operations with cybersecurity.
