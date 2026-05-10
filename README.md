@@ -99,7 +99,7 @@ Linux/Windows administration). I have skills in technical documentation, root ca
     <h2>🎓 Education 🎓</h2>
 </div>
 <div align="center">
-    <img src="https://media1.tenor.com/m/EGdE4nEPoKsAAAAC/anime-studying-anime-study.gif" alt="Education">
+    <img src="https://media1.tenor.com/m/zk6OuE-RGngAAAAC/midoriya-izuku-anime-stud.gif" alt="Education">
 </div>
 <dl align="center">
     <dt>Master’s Degree in Cybersecurity</dt>
