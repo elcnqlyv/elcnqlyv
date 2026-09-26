@@ -21,7 +21,7 @@
     <dt>Name:</dt>
     <dd>Elchin Guliyev</dd>
     <dd>Cybersecurity Specialist</dd>
-    <dd>I have worked in IT and security systems since 2020. I am currently focused on penetration testing, with a particular interest in IoT, firmware, and embedded security.</dd>
+    <dd>I have worked in IT and security systems since 2019. I am currently focused on penetration testing, with a particular interest in IoT, firmware, and embedded security.</dd>
 </dl>
 
 <div align="center">
