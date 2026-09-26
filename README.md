@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-    <img src="https://media1.tenor.com/m/N5v8Cqz0DY0AAAAC/makise-kirusu-steins-gate.gif">
+    <img src="https://media1.tenor.com/m/N5v8Cqz0DY0AAAAC/makise-kirusu-steins-gate.gif" alt="About me">
 </div>
 
 <dl align="center">
@@ -32,23 +32,29 @@
     <img src="https://media1.tenor.com/m/pOlOTZBqDIcAAAAC/himouto-umaru-chan.gif" alt="Knowledge">
 </div>
 
-<dl align="center">
-    <dt>Offensive Security</dt>
-    <dd>Nmap, Gobuster, ffuf</dd>
-    <dd>John the Ripper, Hashcat</dd>
-    <dd>Active Directory pentesting</dd>
+<p align="center">
+  <b>Offensive Security</b><br>
+  Nmap, Gobuster, ffuf<br>
+  John the Ripper, Hashcat<br>
+  Active Directory pentesting
+</p>
 
-    <dt>Firmware & Embedded</dt>
-    <dd>Firmware analysis</dd>
-    <dd>Ghidra, binwalk</dd>
+<p align="center">
+  <b>Firmware &amp; Embedded Security</b><br>
+  Firmware analysis<br>
+  Ghidra, binwalk
+</p>
 
-    <dt>Systems & Security Tools</dt>
-    <dd>Linux, Windows, Active Directory</dd>
-    <dd>Wazuh, OPNsense</dd>
+<p align="center">
+  <b>Systems &amp; Security Tools</b><br>
+  Linux, Windows, Active Directory<br>
+  Wazuh, OPNsense
+</p>
 
-    <dt>Programming & Scripting</dt>
-    <dd>C, Python, Bash, PowerShell</dd>
-</dl>
+<p align="center">
+  <b>Programming &amp; Scripting</b><br>
+  C, Python, Bash, PowerShell
+</p>
 
 <div align="center">
     <div class="stats">
@@ -69,7 +75,7 @@
 
 <dl align="center">
     <dt>Senior IT and Security Systems Specialist</dt>
-    <dd>AirTech LLC – March 2020 – December 2025</dd>
+    <dd>AirTech LLC – March 2019 – December 2025</dd>
     <dt>Project Coordinator</dt>
     <dd>CloudFuture LLC – January 2022 – Present</dd>
 </dl>
@@ -83,10 +89,9 @@
 </div>
 
 <dl align="center">
-    <dt>BLX Stealer Detection and Response</dt>
+    <dt><b>BLX Stealer Detection and Response</b></dt>
     <dd>Detection and response lab using Wazuh</dd>
-
-    <dt>Firmware Static Analyzer</dt>
+    <dt><b>Firmware Static Analyzer</b></dt>
     <dd>Simple C tool for identifying firmware file signatures and extracting interesting strings</dd>
 </dl>
 
