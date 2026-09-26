@@ -17,12 +17,12 @@
     <img src="https://media1.tenor.com/m/N5v8Cqz0DY0AAAAC/makise-kirusu-steins-gate.gif" alt="About me">
 </div>
 
-<dl align="center">
-    <dt>Name:</dt>
-    <dd>Elchin Guliyev</dd>
-    <dd>Cybersecurity Specialist</dd>
-    <dd>I have worked in IT and security systems since 2019. I am currently focused on penetration testing, with a particular interest in IoT, firmware, and embedded security.</dd>
-</dl>
+<p align="center">
+    Elchin Guliyev<br>
+    Cybersecurity Specialist<br>
+    I have worked in IT and security systems since 2019.<br>
+    I am currently focused on penetration testing, with a particular interest in IoT, firmware, and embedded security.
+</p>
 
 <div align="center">
     <h2>📚 Technical Skills 📚</h2>
@@ -33,27 +33,27 @@
 </div>
 
 <p align="center">
-  <b>Offensive Security</b><br>
-  Nmap, Gobuster, ffuf<br>
-  John the Ripper, Hashcat<br>
-  Active Directory pentesting
+    <b>Offensive Security</b><br>
+    Nmap, Gobuster, ffuf<br>
+    John the Ripper, Hashcat<br>
+    Active Directory pentesting
 </p>
 
 <p align="center">
-  <b>Firmware &amp; Embedded Security</b><br>
-  Firmware analysis<br>
-  Ghidra, binwalk
+    <b>Firmware &amp; Embedded Security</b><br>
+    Firmware analysis<br>
+    Ghidra, binwalk
 </p>
 
 <p align="center">
-  <b>Systems &amp; Security Tools</b><br>
-  Linux, Windows, Active Directory<br>
-  Wazuh, OPNsense
+    <b>Systems &amp; Security Tools</b><br>
+    Linux, Windows, Active Directory<br>
+    Wazuh, OPNsense
 </p>
 
 <p align="center">
-  <b>Programming &amp; Scripting</b><br>
-  C, Python, Bash, PowerShell
+    <b>Programming &amp; Scripting</b><br>
+    C, Python, Bash, PowerShell
 </p>
 
 <div align="center">
@@ -73,27 +73,38 @@
     <img src="https://media1.tenor.com/m/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif" alt="Work">
 </div>
 
-<dl align="center">
-    <dt>Senior IT and Security Systems Specialist</dt>
-    <dd>AirTech LLC – March 2019 – December 2025</dd>
-    <dt>Project Coordinator</dt>
-    <dd>CloudFuture LLC – January 2022 – Present</dd>
-</dl>
+<p align="center">
+    <b>Senior IT and Security Systems Specialist</b><br>
+    AirTech LLC – March 2019 – December 2025
+</p>
+
+<p align="center">
+    <b>Project Coordinator</b><br>
+    CloudFuture LLC – January 2022 – Present
+</p>
 
 <div align="center">
-    <h2>🔬 Security Labs & Projects 🔬</h2>
+    <h2>🔬 Projects &amp; Security Labs 🔬</h2>
 </div>
 
 <div align="center">
-    <img src="https://media1.tenor.com/m/g4EXYBqfPwwAAAAC/oleana-pokemon.giff" alt="Labs">
+    <img src="https://media1.tenor.com/m/g4EXYBqfPwwAAAAC/oleana-pokemon.giff" alt="Projects">
 </div>
 
-<dl align="center">
-    <dt><b>BLX Stealer Detection and Response</b></dt>
-    <dd>Detection and response lab using Wazuh</dd>
-    <dt><b>Firmware Static Analyzer</b></dt>
-    <dd>Simple C tool for identifying firmware file signatures and extracting interesting strings</dd>
-</dl>
+<p align="center">
+    <b><a href="https://github.com/elcnqlyv/BLX-Detection-and-Response-using-Wazuh">BLX Detection and Response using Wazuh</a></b><br>
+    Detection and response lab using Wazuh, Sysmon, and YARA.
+</p>
+
+<p align="center">
+    <b><a href="https://github.com/elcnqlyv/LinkedIn-PDF-extractor">LinkedIn Document to PDF Scraper</a></b><br>
+    Browser and Python tool for extracting LinkedIn document pages and compiling them into a PDF.
+</p>
+
+<p align="center">
+    <b><a href="https://github.com/elcnqlyv/Firmware_Static_Analyzer">Firmware Static Analyzer</a></b><br>
+    Simple C tool for identifying firmware file signatures and extracting interesting strings.
+</p>
 
 <div align="center">
     <h2>🎓 Education 🎓</h2>
@@ -103,12 +114,17 @@
     <img src="https://media1.tenor.com/m/zk6OuE-RGngAAAAC/midoriya-izuku-anime-stud.gif" alt="Education">
 </div>
 
-<dl align="center">
-    <dt>Master’s Degree in Cybersecurity</dt>
-    <dd>Azerbaijan Technical University – September 2023 – June 2025 (SABAH Groups)</dd>
-    <dt>Bachelor’s Degree in Computer Science</dt>
-    <dd>Baku State University – September 2019 – June 2023 (SABAH Groups)</dd>
-</dl>
+<p align="center">
+    <b>Master’s Degree in Cybersecurity</b><br>
+    Azerbaijan Technical University – September 2023 – June 2025<br>
+    SABAH Groups
+</p>
+
+<p align="center">
+    <b>Bachelor’s Degree in Computer Science</b><br>
+    Baku State University – September 2019 – June 2023<br>
+    SABAH Groups
+</p>
 
 <div align="center">
     <h2>📬 Contact me 📬</h2>
@@ -118,9 +134,12 @@
     <img src="https://media1.tenor.com/m/BPsfw3S6zzMAAAAC/moeka-kiryu-steins-gate.gif" alt="Contact">
 </div>
 
-<dl align="center">
-    <dt>Discord:</dt>
-    <dd><a href="https://discord.com/users/632237530439483393">elcnqlyv</a></dd>
-    <dt>Telegram:</dt>
-    <dd><a href="https://t.me/elcnqlyv">elcnqlyv</a></dd>
-</dl>
+<p align="center">
+    Discord:<br>
+    <a href="https://discord.com/users/632237530439483393">elcnqlyv</a>
+</p>
+
+<p align="center">
+    Telegram:<br>
+    <a href="https://t.me/elcnqlyv">elcnqlyv</a>
+</p>
